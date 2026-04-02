@@ -73,19 +73,27 @@ From ERP/MES platforms to multi-agent orchestration engines, my mission is conve
 
 ## TLALOC LIVE MODE
 
-Launch a live conversation with Tlaloc from this README:
-
-- Start session -> https://endex.dev/?tlaloc=1
-- Diagnose my operation -> https://endex.dev/?tlaloc=1&msg=Tengo%20una%20operacion%20manual%20en%20Excel%2C%20ayudame%20a%20diagnosticar%20cuellos%20de%20botella
-- Recommend system architecture -> https://endex.dev/?tlaloc=1&msg=No%20se%20que%20sistema%20necesita%20mi%20empresa%2C%20guiame%20paso%20a%20paso
-- Request proposal -> https://endex.dev/?tlaloc=1&msg=Quiero%20una%20cotizacion%20para%20ordenar%20mi%20operacion
+Live interface embedded through launch links.
 
 <div align="center">
 
-[![Launch Tlaloc](https://img.shields.io/badge/Launch-Tlaloc%20Live-071422?style=for-the-badge&logo=chatbot&logoColor=5B6CFF)](https://endex.dev/?tlaloc=1)
-[![Run Diagnostic](https://img.shields.io/badge/Run-Operational%20Diagnostic-5B6CFF?style=for-the-badge&logo=speedtest&logoColor=ffffff)](https://endex.dev/?tlaloc=1&msg=Tengo%20una%20operacion%20manual%20en%20Excel%2C%20ayudame%20a%20diagnosticar%20cuellos%20de%20botella)
+[![Enter Tlaloc](https://img.shields.io/badge/ENTER-TLALOC%20LIVE-071422?style=for-the-badge&logo=googlechat&logoColor=5B6CFF)](https://endex.dev/?tlaloc=1)
+[![Run Diagnostic](https://img.shields.io/badge/RUN-OPERATIONAL%20DIAGNOSTIC-5B6CFF?style=for-the-badge&logo=speedtest&logoColor=ffffff)](https://endex.dev/?tlaloc=1&msg=Tengo%20una%20operacion%20manual%20en%20Excel%2C%20ayudame%20a%20diagnosticar%20cuellos%20de%20botella)
+[![Architect My System](https://img.shields.io/badge/ARCHITECT-MY%20SYSTEM-8A5CFF?style=for-the-badge&logo=sourcegraph&logoColor=ffffff)](https://endex.dev/?tlaloc=1&msg=No%20se%20que%20sistema%20necesita%20mi%20empresa%2C%20guiame%20paso%20a%20paso)
+[![Request Proposal](https://img.shields.io/badge/REQUEST-PROPOSAL-0F766E?style=for-the-badge&logo=googledocs&logoColor=ffffff)](https://endex.dev/?tlaloc=1&msg=Quiero%20una%20cotizacion%20para%20ordenar%20mi%20operacion)
 
 </div>
+
+```text
+README -> Launch link -> endex.dev -> Tlaloc opens preloaded
+```
+
+| Mode | Objective | Launch |
+| --- | --- | --- |
+| Live Session | Open chat immediately | [Open](https://endex.dev/?tlaloc=1) |
+| Operational Diagnostic | Detect bottlenecks from current process | [Run](https://endex.dev/?tlaloc=1&msg=Tengo%20una%20operacion%20manual%20en%20Excel%2C%20ayudame%20a%20diagnosticar%20cuellos%20de%20botella) |
+| Architecture Advisor | Guide ERP/SaaS/AI architecture decision | [Launch](https://endex.dev/?tlaloc=1&msg=No%20se%20que%20sistema%20necesita%20mi%20empresa%2C%20guiame%20paso%20a%20paso) |
+| Proposal Request | Start quotation flow with context | [Start](https://endex.dev/?tlaloc=1&msg=Quiero%20una%20cotizacion%20para%20ordenar%20mi%20operacion) |
 
 ## Enter the system
 
