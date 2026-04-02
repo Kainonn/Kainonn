@@ -133,18 +133,18 @@ System load:
 ## dynamic telemetry
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="assets/system-status-dark.svg" />
-	<img src="assets/system-status.svg" alt="System status panel" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://endex.dev/assets/system-status-dark.svg" />
+	<img src="https://endex.dev/assets/system-status.svg" alt="System status panel" />
 </picture>
 
-<img src="assets/active-focus.svg" alt="Active focus panel" />
+<img src="https://endex.dev/assets/active-focus.svg" alt="Active focus panel" />
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="assets/endex-map-dark.svg" />
-	<img src="assets/endex-map.svg" alt="Endex execution map" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://endex.dev/assets/endex-map-dark.svg" />
+	<img src="https://endex.dev/assets/endex-map.svg" alt="Endex execution map" />
 </picture>
 
-> Replace these asset paths with your own endpoint URLs when ready (for example: `https://your-domain/api/system-status.svg`).
+> Live endpoints connected: https://endex.dev/assets/
 
 ## BOOT SEQUENCE
 
