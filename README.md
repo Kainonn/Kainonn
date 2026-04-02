@@ -27,6 +27,10 @@
 
 </div>
 
+## > access granted
+
+Initializing profile...
+
 ## SYSTEM STATUS
 
 ```text
@@ -47,15 +51,19 @@ I design and engineer execution-level AI systems that:
 
 I focus on building systems that reduce dependency on human execution.
 
+This is not automation — it is operational transformation.
+
 From ERP/MES platforms to multi-agent orchestration engines, my mission is converting companies into intelligent execution systems.
 
 ## quick access
 
-`open --system orion`
-`open --system tlaloc`
-`open --system endexagents`
-`open --contact linkedin`
-`open --signal github`
+```bash
+> open --system orion
+> open --system tlaloc
+> open --system endexagents
+> open --contact linkedin
+> open --signal github
+```
 
 - `open --system orion` -> https://github.com/Kainonn/EndexAI-Showcase
 - `open --system tlaloc` -> https://github.com/Kainonn/Tlaloc-Showcase
@@ -108,6 +116,35 @@ endexagents/
 $ status
 online
 ```
+
+## execution signal
+
+```text
+Last known activity:
+- Designing AI execution pipelines
+- Building multi-agent orchestration systems
+- Migrating ERP/MES into SaaS architecture
+
+System load:
+- Active systems: Orion, Tlaloc, EndexAgents
+- Mode: BUILD
+```
+
+## dynamic telemetry
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="assets/system-status-dark.svg" />
+	<img src="assets/system-status.svg" alt="System status panel" />
+</picture>
+
+<img src="assets/active-focus.svg" alt="Active focus panel" />
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="assets/endex-map-dark.svg" />
+	<img src="assets/endex-map.svg" alt="Endex execution map" />
+</picture>
+
+> Replace these asset paths with your own endpoint URLs when ready (for example: `https://your-domain/api/system-status.svg`).
 
 ## BOOT SEQUENCE
 
@@ -173,10 +210,14 @@ Manufacturing systems running in real production environments.
 
 ```text
 User
-  -> Channel Layer (web / email / bots)
-	  -> Reasoning Layer (context + decisions)
-		  -> Execution Layer (workflows + actions)
-			  -> Memory Layer (state + retrieval + continuity)
+	↓
+Channel Layer (web / email / bots)
+	↓
+Reasoning Layer (context + decisions)
+	↓
+Execution Layer (actions + workflows)
+	↓
+Memory Layer (state + retrieval + continuity)
 ```
 
 ## PUBLIC SURFACES
@@ -264,10 +305,18 @@ Focused on the next layer of software:
 <details>
 <summary><strong>view internal notes</strong></summary>
 
-- `> enter_orion`
-- `> inspect_tlaloc`
-- `> route_endexagents --mode orchestration`
+- `> enter_orion --mode autonomous`
+- `> inspect_tlaloc --layer reasoning`
+- `> route_endexagents --pipeline full`
 
 </details>
 
 <!-- internal: execution-first profile framing enabled -->
+
+## anomaly detection
+
+If you reached this point, you are not just browsing.
+
+You are analyzing.
+
+That’s exactly how I design systems.
