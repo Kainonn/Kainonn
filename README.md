@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1900&pause=600&color=5B6CFF&center=true&vCenter=true&width=900&lines=Designing+execution-level+AI+systems;ERP+%2F+MES+%2F+SaaS+%2F+Multi-agent+orchestration;From+software+to+systems+that+run+companies)](https://git.io/typing-svg)
 
 ### ⚡ I build AI systems that don’t assist — they execute.
+### ⚙️ And I design them to replace operational friction.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kainonn&style=for-the-badge&color=5B6CFF)
 ![Role](https://img.shields.io/badge/ROLE-AI%20Systems%20Architect-5B6CFF?style=for-the-badge&labelColor=071422)
@@ -42,6 +43,24 @@ Current objective.... Replace manual operations with autonomous flows
 State................ ONLINE
 ```
 
+## execution results
+
+```text
+- ERP/MES system running in production (1+ year)
+- Multi-agent pipelines executing real business flows
+- AI systems integrated into operational environments
+- SaaS migration in progress (multi-tenant architecture)
+```
+
+## proof points
+
+```text
+- Production ERP/MES: active in real operation for 1+ year
+- Public AI touchpoint: Tlaloc chat available at endex.dev
+- Architecture scope: ERP + MES + SaaS + AI orchestration
+- Delivery model: from diagnostics to implementation roadmap
+```
+
 I do not build simple apps or dashboards.
 
 I design and engineer execution-level AI systems that:
@@ -65,11 +84,11 @@ From ERP/MES platforms to multi-agent orchestration engines, my mission is conve
 > open --signal github
 ```
 
-- `open --system orion` -> https://github.com/Kainonn/EndexAI-Showcase
-- `open --system tlaloc` -> https://github.com/Kainonn/Tlaloc-Showcase
-- `open --system endexagents` -> https://github.com/Kainonn/Kainonn-EndexAgents-Showcase
-- `open --contact linkedin` -> https://linkedin.com/in/jerardocr
-- `open --signal github` -> https://github.com/Kainonn
+- [`open --system orion`](https://github.com/Kainonn/EndexAI-Showcase)
+- [`open --system tlaloc`](https://github.com/Kainonn/Tlaloc-Showcase)
+- [`open --system endexagents`](https://github.com/Kainonn/Kainonn-EndexAgents-Showcase)
+- [`open --contact linkedin`](https://linkedin.com/in/jerardocr)
+- [`open --signal github`](https://github.com/Kainonn)
 
 ## TLALOC LIVE MODE
 
@@ -98,7 +117,7 @@ README -> Launch link -> endex.dev -> Tlaloc opens preloaded
 ## Enter the system
 
 <details>
-	<summary><strong>I'm a recruiter</strong></summary>
+	<summary><strong>I want to hire him</strong></summary>
 
 	- I design AI systems that execute business operations
 	- I build ERP/MES, SaaS and multi-agent systems
@@ -109,7 +128,7 @@ README -> Launch link -> endex.dev -> Tlaloc opens preloaded
 </details>
 
 <details>
-	<summary><strong>I'm an engineer</strong></summary>
+	<summary><strong>I want to understand his systems</strong></summary>
 
 	- Laravel + Python + React + Docker
 	- Multi-tenant architectures
@@ -344,3 +363,20 @@ If you reached this point, you are not just browsing.
 You are analyzing.
 
 That’s exactly how I design systems.
+
+## > request collaboration
+
+If you are building something complex,
+and need systems that actually execute — not just assist —
+
+we should talk.
+
+```bash
+> connect --channel linkedin
+> connect --channel github
+> launch --tlaloc live
+```
+
+- [connect --channel linkedin](https://linkedin.com/in/jerardocr)
+- [connect --channel github](https://github.com/Kainonn)
+- [launch --tlaloc live](https://endex.dev/?tlaloc=1)
