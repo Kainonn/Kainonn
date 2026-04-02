@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Jerardo%20Cano&fontAlign=50&fontAlignY=38&color=0:071422,45:5B6CFF,100:8A5CFF&fontColor=ffffff&desc=AI%20Systems%20Architect%20%7C%20Founder%20%40%20Endex&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&text=Jerardo%20Cano&fontAlign=50&fontAlignY=36&color=0:071422,45:5B6CFF,100:8A5CFF&fontColor=ffffff&desc=AI%20Systems%20Architect%20%7C%20Founder%20%40%20Endex&descAlign=50&descAlignY=58&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=5B6CFF&center=true&vCenter=true&width=900&lines=Digitalize+%7C+Automate+%7C+Scale;ERP+%2F+MES+%2F+SaaS+%2F+Multi-agent+AI+systems;From+software+to+systems+that+run+companies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1900&pause=600&color=5B6CFF&center=true&vCenter=true&width=900&lines=Designing+execution-level+AI+systems;ERP+%2F+MES+%2F+SaaS+%2F+Multi-agent+orchestration;From+software+to+systems+that+run+companies)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kainonn&style=for-the-badge&color=5B6CFF)
 ![Role](https://img.shields.io/badge/ROLE-AI%20Systems%20Architect-5B6CFF?style=for-the-badge&labelColor=071422)
@@ -16,6 +16,12 @@
 ![Brand Primary](https://img.shields.io/badge/Primary-5B6CFF-5B6CFF?style=flat-square&labelColor=F6F5FF)
 ![Brand Accent](https://img.shields.io/badge/Accent-8A5CFF-8A5CFF?style=flat-square&labelColor=F6F5FF)
 ![Brand Deep](https://img.shields.io/badge/Deep-071422-071422?style=flat-square&labelColor=F6F5FF)
+
+</div>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:071422,50:5B6CFF,100:8A5CFF&height=2&section=header)
 
 </div>
 
@@ -88,14 +94,32 @@ Manufacturing systems running in real production environments.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kainonn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kainonn&layout=compact&theme=transparent&hide_border=true" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=Kainonn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kainonn&layout=donut-vertical&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5" />
+
+</div>
+
+<div align="center">
+
+<img height="185" src="https://streak-stats.demolab.com?user=Kainonn&theme=transparent&hide_border=true&ring=5B6CFF&fire=8A5CFF&currStreakLabel=071422&sideNums=071422&currStreakNum=5B6CFF&dates=6B7280" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kainonn&theme=flat&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=4&title=Followers,Stars,Commits,Repositories,Experience,PullRequest" />
 
 </div>
 
 <div align="center">
 
 [![Jerardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kainonn&bg_color=F6F5FF&color=071422&line=5B6CFF&point=8A5CFF&area=true&hide_border=true)](https://github.com/Kainonn)
+
+</div>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:071422,50:5B6CFF,100:8A5CFF&height=2&section=footer)
 
 </div>
 
