@@ -1,13 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Jerardo%20Cano&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=AI%20Systems%20Architect%20%7C%20Founder%20%40%20Endex&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Jerardo%20Cano&fontAlign=50&fontAlignY=38&color=0:071028,50:071422,100:5B6CFF&fontColor=ffffff&desc=AI%20Systems%20Architect%20%7C%20Founder%20%40%20Endex&descAlign=50&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+autonomous+systems+that+execute+business+operations;ERP+%2F+MES+%2F+SaaS+%2F+Multi-agent+AI+systems;From+software+to+systems+that+run+companies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=5B6CFF&center=true&vCenter=true&width=900&lines=Building+autonomous+systems+that+execute+business+operations;ERP+%2F+MES+%2F+SaaS+%2F+Multi-agent+AI+systems;From+software+to+systems+that+run+companies)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kainonn&style=for-the-badge&color=0e75b6)
-![Role](https://img.shields.io/badge/ROLE-AI%20Systems%20Architect-0A66C2?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-Autonomous%20Execution%20Systems-1f6feb?style=for-the-badge)
-![Company](https://img.shields.io/badge/ENDEx-Founder-111827?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Kainonn&style=for-the-badge&color=5B6CFF)
+![Role](https://img.shields.io/badge/ROLE-AI%20Systems%20Architect-5B6CFF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-Autonomous%20Execution%20Systems-8A5CFF?style=for-the-badge)
+![Company](https://img.shields.io/badge/ENDEx-Founder-071422?style=for-the-badge)
 
 </div>
 
@@ -87,7 +87,7 @@ Manufacturing systems running in real production environments.
 
 <div align="center">
 
-[![Jerardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kainonn&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true)](https://github.com/Kainonn)
+[![Jerardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kainonn&bg_color=071028&color=BFCFFF&line=5B6CFF&point=DFF2FF&area=true&hide_border=true)](https://github.com/Kainonn)
 
 </div>
 
@@ -107,7 +107,7 @@ Most people build software. I build systems that run businesses.
 
 ## Contact
 
-- LinkedIn: add your link here
+- LinkedIn: https://linkedin.com/in/jerardocr
 - GitHub: https://github.com/Kainonn
 
 ## Notes
