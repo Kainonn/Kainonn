@@ -1,13 +1,21 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Jerardo%20Cano&fontAlign=50&fontAlignY=38&color=0:071028,50:071422,100:5B6CFF&fontColor=ffffff&desc=AI%20Systems%20Architect%20%7C%20Founder%20%40%20Endex&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Jerardo%20Cano&fontAlign=50&fontAlignY=38&color=0:071422,45:5B6CFF,100:8A5CFF&fontColor=ffffff&desc=AI%20Systems%20Architect%20%7C%20Founder%20%40%20Endex&descAlign=50&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=5B6CFF&center=true&vCenter=true&width=900&lines=Building+autonomous+systems+that+execute+business+operations;ERP+%2F+MES+%2F+SaaS+%2F+Multi-agent+AI+systems;From+software+to+systems+that+run+companies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=5B6CFF&center=true&vCenter=true&width=900&lines=Digitalize+%7C+Automate+%7C+Scale;ERP+%2F+MES+%2F+SaaS+%2F+Multi-agent+AI+systems;From+software+to+systems+that+run+companies)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kainonn&style=for-the-badge&color=5B6CFF)
-![Role](https://img.shields.io/badge/ROLE-AI%20Systems%20Architect-5B6CFF?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-Autonomous%20Execution%20Systems-8A5CFF?style=for-the-badge)
-![Company](https://img.shields.io/badge/ENDEx-Founder-071422?style=for-the-badge)
+![Role](https://img.shields.io/badge/ROLE-AI%20Systems%20Architect-5B6CFF?style=for-the-badge&labelColor=071422)
+![Focus](https://img.shields.io/badge/FOCUS-Autonomous%20Execution%20Systems-8A5CFF?style=for-the-badge&labelColor=071422)
+![Company](https://img.shields.io/badge/ENDEX-Founder-071422?style=for-the-badge&labelColor=F0EFFF&logoColor=5B6CFF)
+
+</div>
+
+<div align="center">
+
+![Brand Primary](https://img.shields.io/badge/Primary-5B6CFF-5B6CFF?style=flat-square&labelColor=F6F5FF)
+![Brand Accent](https://img.shields.io/badge/Accent-8A5CFF-8A5CFF?style=flat-square&labelColor=F6F5FF)
+![Brand Deep](https://img.shields.io/badge/Deep-071422-071422?style=flat-square&labelColor=F6F5FF)
 
 </div>
 
@@ -87,7 +95,7 @@ Manufacturing systems running in real production environments.
 
 <div align="center">
 
-[![Jerardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kainonn&bg_color=071028&color=BFCFFF&line=5B6CFF&point=DFF2FF&area=true&hide_border=true)](https://github.com/Kainonn)
+[![Jerardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kainonn&bg_color=F6F5FF&color=071422&line=5B6CFF&point=8A5CFF&area=true&hide_border=true)](https://github.com/Kainonn)
 
 </div>
 
