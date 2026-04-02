@@ -133,15 +133,15 @@ System load:
 ## dynamic telemetry
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://endex.dev/assets/system-status-dark.svg" />
-	<img src="https://endex.dev/assets/system-status.svg" alt="System status panel" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://endex.dev/assets/system-status-dark.svg?v=20260402" />
+	<img src="https://endex.dev/assets/system-status.svg?v=20260402" alt="System status panel" />
 </picture>
 
-<img src="https://endex.dev/assets/active-focus.svg" alt="Active focus panel" />
+<img src="https://endex.dev/assets/active-focus.svg?v=20260402" alt="Active focus panel" />
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://endex.dev/assets/endex-map-dark.svg" />
-	<img src="https://endex.dev/assets/endex-map.svg" alt="Endex execution map" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://endex.dev/assets/endex-map-dark.svg?v=20260402" />
+	<img src="https://endex.dev/assets/endex-map.svg?v=20260402" alt="Endex execution map" />
 </picture>
 
 > Live endpoints connected: https://endex.dev/assets/
