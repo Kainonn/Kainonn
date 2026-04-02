@@ -71,6 +71,22 @@ From ERP/MES platforms to multi-agent orchestration engines, my mission is conve
 - `open --contact linkedin` -> https://linkedin.com/in/jerardocr
 - `open --signal github` -> https://github.com/Kainonn
 
+## TLALOC LIVE MODE
+
+Launch a live conversation with Tlaloc from this README:
+
+- Start session -> https://endex.dev/?tlaloc=1
+- Diagnose my operation -> https://endex.dev/?tlaloc=1&msg=Tengo%20una%20operacion%20manual%20en%20Excel%2C%20ayudame%20a%20diagnosticar%20cuellos%20de%20botella
+- Recommend system architecture -> https://endex.dev/?tlaloc=1&msg=No%20se%20que%20sistema%20necesita%20mi%20empresa%2C%20guiame%20paso%20a%20paso
+- Request proposal -> https://endex.dev/?tlaloc=1&msg=Quiero%20una%20cotizacion%20para%20ordenar%20mi%20operacion
+
+<div align="center">
+
+[![Launch Tlaloc](https://img.shields.io/badge/Launch-Tlaloc%20Live-071422?style=for-the-badge&logo=chatbot&logoColor=5B6CFF)](https://endex.dev/?tlaloc=1)
+[![Run Diagnostic](https://img.shields.io/badge/Run-Operational%20Diagnostic-5B6CFF?style=for-the-badge&logo=speedtest&logoColor=ffffff)](https://endex.dev/?tlaloc=1&msg=Tengo%20una%20operacion%20manual%20en%20Excel%2C%20ayudame%20a%20diagnosticar%20cuellos%20de%20botella)
+
+</div>
+
 ## Enter the system
 
 <details>
