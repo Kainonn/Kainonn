@@ -94,8 +94,8 @@ Manufacturing systems running in real production environments.
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=Kainonn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kainonn&layout=donut-vertical&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kainonn&theme=github" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kainonn&theme=github" />
 
 </div>
 
@@ -107,7 +107,7 @@ Manufacturing systems running in real production environments.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kainonn&theme=flat&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=4&title=Followers,Stars,Commits,Repositories,Experience,PullRequest" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kainonn&theme=github" />
 
 </div>
 
